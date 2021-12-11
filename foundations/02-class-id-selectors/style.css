@@ -1,0 +1,20 @@
+
+.odd-color{
+    background-color: rgb(243, 165, 178);
+    font-family:Verdana, sans-serif;
+}
+
+#blue-font {
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.font-24{
+    font-size: 24px;
+}
+
+#green-back {
+    background-color:rgb(159, 240, 134);
+    font-weight: bold;
+    font-size: 24px;
+}
